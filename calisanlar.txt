@@ -1,0 +1,3 @@
+1 sema ozgen 400.00 2012
+1 defne oz 400.00 2001
+2 eren ede 200.00 2015
